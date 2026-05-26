@@ -5,7 +5,7 @@ let numero = Number(prompt("Insira um valor: "));
 if (numero > 0) {
     console.log("Positivo");
 } else if (numero < 0) {
-    console.log("Negativo")
+    console.log("Negativo");
 } else {
-    console.log("Zero")
+    console.log("Zero");
 }
